@@ -22,9 +22,9 @@ Hi there! 👋 I'm Katuri Narendra<br>
 
 ##  Profile View Counter:
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Narendra7211&icon=0&color=0" alt="Profile View Counter" style="border-radius: 50%; width: 200px; height: 50px;">
+  <img src="https://visitcount.itsvg.in/api?id=Narendra7211&icon=0&color=0" alt=" Views Count" style="border-radius: 50%; width: 250px; height: 70px;">
 </a>
 
-
-**"Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine."  
-— *The Imitation Game**
+## 
+ "Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine." **
+— *The Imitation Game
