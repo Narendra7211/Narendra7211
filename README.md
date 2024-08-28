@@ -27,4 +27,4 @@
 
 
 ## 
-<b style="font-size: 32px;">"Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine." — *The Imitation Game*</b>
+<b style="font-size: 200px;">"Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine." — *The Imitation Game*</b>
