@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Katuri Narendra<br>
+ ##  Katuri Narendra
 👨‍💻 Aspiring Data Scientist | Software Developer | AI Enthusiast<br><br>
 🌍 From Andhra Pradesh, India<br>
 🎓 Education: Student with a strong background in Data Science, Machine Learning, and Natural Language Processing (NLP).<br>
@@ -25,6 +25,6 @@ Hi there! 👋 I'm Katuri Narendra<br>
   <img src="https://visitcount.itsvg.in/api?id=Narendra7211&icon=0&color=0" alt=" Views Count" style="border-radius: 50%; width: 250px; height: 50px;">
 </a>
 
+
 ## 
-<b> "Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine." **
-— *The Imitation Game</b>
+<b style="font-size: 18px;">"Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine." — *The Imitation Game*</b>
