@@ -29,14 +29,14 @@ Currently pursuing studies in Data Science and Machine Learning with focus on:
 
 ### 1. Deepfake Video Detection
 **Technologies:** Python, PyTorch (EfficientNet, MobileNet, LSTM/GRU), AWS  
-- Developed hybrid CNN+RNN model achieving 94.2% accuracy on Celeb-DF dataset
-- Optimized inference speed to 0.15 sec/frame using CUDA acceleration
-- Deployed end-to-end solution on AWS EC2 with Flask backend
+- Hybrid CNN-RNN Model: Combines EfficientNet/MobileNet (spatial) + LSTM/GRU (temporal) for 94% accuracy on FaceForensics++.
+- Real-Time Efficiency: MobileNetV3+GRU achieves 88% accuracy with <1ms GPU inference, ideal for edge devices.
+- Deployment-Ready: Modular Flask API supports MP4/AVI inputs, GDPR-compliant logging, and batch processing.
 
 ### 2. Airline Sentiment Analysis
 **Technologies:** Python, DistilBERT, NLP  
 - Built sentiment classifier with 82.98% test accuracy on 14K+ tweets
-- Implemented text preprocessing pipeline improving model efficiency
+- Implemented text preprocessing pipeline, improving model efficiency
 - Achieved 87% precision for negative sentiment classification
 
 ### 3. Bank Loan Analytics Dashboard
@@ -46,7 +46,7 @@ Currently pursuing studies in Data Science and Machine Learning with focus on:
 - Visualized regional trends using geospatial mapping
 
 ## 🌟 Professional Philosophy
-> "Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine."  
-> — *The Imitation Game*
+> **"Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine."** 
+> — **The Imitation Game**
 
 Passionate about transforming raw data into actionable insights and building intelligent systems that solve real-world problems.
